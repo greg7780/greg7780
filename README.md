@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gregory Wilson Wijaya</h1>
 <h3 align="center">Informatics Enthusiast Passionate About Technology</h3>
 
-**an informatics student in Atma Jaya Yogyakarta**
+**Currently an informatics student in Atma Jaya Yogyakarta**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
